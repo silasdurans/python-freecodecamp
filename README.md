@@ -8,8 +8,8 @@ O curso Python v9 da freeCodeCamp cobre Python do zero ao avançado, com um proj
 
 ## Estrutura do curso
 
-- [ ] **Python Basics**
-- [ ] **Install Python**
+- [X] **Python Basics**
+- [X] **Install Python**
 - [ ] **Loops and Sequences**
 - [ ] **Dictionaries and Sets**
   - [ ] 🏆 Certification Project: Build a User Configuration Manager
