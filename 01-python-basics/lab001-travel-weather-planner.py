@@ -1,5 +1,3 @@
-# Fulfill the user stories below and get all the tests to pass to complete the lab.
-
 distance_mi = 0
 is_raining = True
 has_bike = True
